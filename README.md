@@ -1,11 +1,12 @@
 # Count People
 
+![Screenshot](https://user-images.githubusercontent.com/29135156/81859196-46b38280-953b-11ea-8456-b6df0af189b0.gif)
+
 Projeto desenvolvido em Flutter, que possibilita adicionar ou subtrair pessoas de um restaurante, sempre que você clicar no botão de adicionar ele incrementa um novo cliente na contagem e quando você clicar no botão de subtrair, ele retira um cliente da contagem. A finalidade deste app é apresentar alguns conceitos de Widget e alguns elementos do Material como por exemplo, Image, Padding, Stack, Stalteless e Stateful.
 
 Um novo projeto em Flutter (estudos).
 
 ## Instrodução
-
 
 Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 
